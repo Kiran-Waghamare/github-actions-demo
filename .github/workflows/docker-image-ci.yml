@@ -39,4 +39,4 @@ jobs:
 
       - name: Push image
         run: |
-          docker push kiranwaghamare/githubactions:1.0.0
+          docker push kiranwaghamare/githubactions
