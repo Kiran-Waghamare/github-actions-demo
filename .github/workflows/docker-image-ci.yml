@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: docker-img-dev
+  IMAGE_NAME: githubactions
 
 jobs:
   # Push image to GitHub Packages.
