@@ -13,8 +13,8 @@ on:
   # Run tests for any PRs.
   pull_request:
 
-#env:
-#  IMAGE_NAME: githubactions
+env:
+  shell: python3
 
 jobs:
   # Push image to GitHub Packages.
